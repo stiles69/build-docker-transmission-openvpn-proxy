@@ -1,3 +1,5 @@
 ![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
-**Rogue Designs**
-# build-rpi-docker-transmission-openvpn-proxy
+
+# Rogue Designs
+
+## build-rpi-docker-transmission-openvpn-proxy
